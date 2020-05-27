@@ -1,0 +1,6 @@
+framework module Pods_IlluminzTest {
+  umbrella header "Pods-IlluminzTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
